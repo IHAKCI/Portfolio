@@ -35,7 +35,7 @@ const Preuve = () => {
             "https://drive.google.com/file/d/1PM6UnRm8_SiXMW5XL0cVOHti5zS8hOk1/view?usp=sharing",
         },
         {
-          name: "Introspection - Nous devons nous décrire et décrire la voie que nous souhaitons prendre",
+          name: "Introspecti on - Nous devons nous décrire et décrire la voie que nous souhaitons prendre",
           period: "11/09/2023 - 19/04/2025",
           values: [false, false, false, false, false, true],
           valueLink:
