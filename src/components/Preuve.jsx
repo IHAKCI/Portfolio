@@ -14,11 +14,11 @@ const Preuve = () => {
       type: "Réalisation en cours de formation",
       rows: [
         {
-          name: "TP - GLPI - OCS",
+          name: "Installation et configuration d’un serveur Windows avec Active Directory",
           period: "06/11/2024 - 03/12/2025",
           values: [true, false, false, false, false, false],
           valueLink:
-            "https://drive.google.com/file/d/1lSNkFPIj06V8-EUOkWifaxChf9G42pui/view?usp=sharing",
+            "https://drive.google.com/file/d/1aHQ59syY7HcZV6bUVmPAWA15wYnDHjmF/view?usp=drive_link",
         },
         {
           name: "GLPI - TP de gestion d'incident où nous avons vu les différents niveaux dans la hiérarchie",
