@@ -15,7 +15,7 @@ const Preuve = () => {
       rows: [
         {
           name: "Installation et configuration d’un serveur Windows avec Active Directory",
-          period: "06/11/2024 - 03/12/2025",
+          period: "15/03/2025 - 25/03/2025",
           values: [true, false, false, false, false, false],
           valueLink:
             "https://drive.google.com/file/d/1aHQ59syY7HcZV6bUVmPAWA15wYnDHjmF/view?usp=drive_link",
@@ -36,7 +36,7 @@ const Preuve = () => {
         },
         {
           name: "Introspection - Nous devons nous décrire et décrire la voie que nous souhaitons prendre",
-          period: "11/09/2023 - 19/04/2025",
+          period: "11/09/2025 - 19/04/2025",
           values: [false, false, false, false, false, true],
           valueLink:
             "https://drive.google.com/file/d/1wen34OGuevf5ne3AUl-isC6RzE-yTjDb/view?usp=sharing",
@@ -45,14 +45,14 @@ const Preuve = () => {
     },
 
     {
-      type: "Réalisation en milieu professionnel en cours de seconde année",
+      type: "Réalisation en milieu professionnel en cours de première année",
       rows: [
         {
-          name: "Versionning sur git de l’applicative",
+          name: "Dépannage réseau et résolution de pannes (stage chez Prospektor)",
           period: "03/03/2025 - 26/04/2025",
-          values: [true, false, false, false, false, false],
+          values: [false, true, false, false, false, false],
           valueLink:
-            "https://drive.google.com/file/d/1ncGQSqNfF8EArs1BDs6nIUL1WSr04fgW/view?usp=sharing",
+            "https://drive.https://drive.google.com/file/d/1t0kIKHCQZ-372E75m74GvmBWqLKWEBJz/view?usp=drive_link.com/file/d/1ncGQSqNfF8EArs1BDs6nIUL1WSr04fgW/view?usp=sharing",
         },
         {
           name: "Traitement de demandes via un Kanban (Trello)",
