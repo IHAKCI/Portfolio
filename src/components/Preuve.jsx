@@ -52,7 +52,7 @@ const Preuve = () => {
           period: "03/03/2025 - 26/04/2025",
           values: [false, true, false, false, false, false],
           valueLink:
-            "https://drive.https://drive.google.com/file/d/1t0kIKHCQZ-372E75m74GvmBWqLKWEBJz/view?usp=drive_link.com/file/d/1ncGQSqNfF8EArs1BDs6nIUL1WSr04fgW/view?usp=sharing",
+            "https://drive.google.com/file/d/1t0kIKHCQZ-372E75m74GvmBWqLKWEBJz/view?usp=drive_link",
         },
         {
           name: "Traitement de demandes via un Kanban (Trello)",
