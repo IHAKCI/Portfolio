@@ -49,17 +49,17 @@ const Preuve = () => {
       rows: [
         {
           name: "Dépannage réseau et résolution de pannes (stage chez Prospektor)",
-          period: "03/03/2025 - 26/04/2025",
+          period: "03/06/2025 - 04/07/2025",
           values: [false, true, false, false, false, false],
           valueLink:
             "https://drive.google.com/file/d/1t0kIKHCQZ-372E75m74GvmBWqLKWEBJz/view?usp=drive_link",
         },
         {
-          name: "Traitement de demandes via un Kanban (Trello)",
-          period: "03/03/2025 - 25/04/2025",
-          values: [false, true, false, false, false, false],
+          name: "Installation de systèmes de caisse tactiles et de vidéosurveillance",
+          period: "03/06/2025 - 04/07/2025",
+          values: [false, false, false, false, true, false],
           valueLink:
-            "https://drive.google.com/file/d/18DlCPMdGA8UycaZKukJXjbukifvTNEGl/view?usp=sharing",
+            "https://drive.google.com/file/d/1yECaFJLkATxHMnrLjPFg4o-Xub70syF_/view?usp=drive_link",
         },
         {
           name: "Création d’une application web (Walrus)",
