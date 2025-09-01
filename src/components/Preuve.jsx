@@ -21,18 +21,18 @@ const Preuve = () => {
             "https://drive.google.com/file/d/1aHQ59syY7HcZV6bUVmPAWA15wYnDHjmF/view?usp=drive_link",
         },
         {
-          name: "GLPI - TP de gestion d'incident où nous avons vu les différents niveaux dans la hiérarchie",
+          name: "Mise en place d'un systèmes de routage inter-vlan",
           period: "11/09/2024 - 02/10/2024",
-          values: [false, true, false, false, false, false],
+          values: [true, false, false, false, false, false],
           valueLink:
-            "https://drive.google.com/file/d/1OzxTZGk3nvCfEASlllmqQcjMrcp9IiE-/view?usp=sharing",
+            "https://drive.google.com/file/d/1xlNeYnvaFKvsz2C9_AJXK3qjCraMVloy/view?usp=drive_link",
         },
         {
-          name: "Développement Présence en ligne - TP mené seul - Création d’un site web Wordpress, le but étant qu’il ait le meilleur référencement.",
+          name: "Configuration de la NAT",
           period: "17/01/2024 - 19/04/2025",
-          values: [false, false, true, false, false, false],
+          values: [false, false, false, false, true, false],
           valueLink:
-            "https://drive.google.com/file/d/1PM6UnRm8_SiXMW5XL0cVOHti5zS8hOk1/view?usp=sharing",
+            "https://drive.google.com/file/d/1YZMGq3oxoM0Z4tFWaF57D7NfALez178A/view?usp=drive_link",
         },
         {
           name: "Introspection - Nous devons nous décrire et décrire la voie que nous souhaitons prendre",
