@@ -28,18 +28,18 @@ const Preuve = () => {
             "https://drive.google.com/file/d/1xlNeYnvaFKvsz2C9_AJXK3qjCraMVloy/view?usp=drive_link",
         },
         {
-          name: "Rendue personnelle (Introspection sur nous même et la voie que nous souhaitons prendre)",
+          name: "Certification (Introspection sur nous même et la voie que nous souhaitons prendre)",
           period: "17/01/2025- 19/04/2025",
           values: [false, false, false, false, false, true],
           valueLink:
-            "https://drive.google.com/file/d/1YZMGq3oxoM0Z4tFWaF57D7NfALez178A/view?usp=drive_link",
+            "https://drive.google.com/file/d/12nr1PS20WtpAZWCKh-R-vuEjE7XCm6i-/view?usp=drive_link",
         },
         {
-          name: "Introspection - Nous devons nous décrire et décrire la voie que nous souhaitons prendre",
+          name: "DPL de Tontatta Security ",
           period: "11/09/2025 - 19/04/2025",
-          values: [false, false, false, false, false, true],
+          values: [false, false, true, false, false, false],
           valueLink:
-            "https://drive.google.com/file/d/1wen34OGuevf5ne3AUl-isC6RzE-yTjDb/view?usp=sharing",
+            "https://drive.google.com/file/d/1gwo1rJVTcxkanuJs1KT8egYS2q2W9_Ao/view?usp=drive_link",
         },
       ],
     },
