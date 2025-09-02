@@ -9,7 +9,7 @@ function Projets() {
       <Header />
       <main>
         <h1>Portfolio</h1>
-        <h2>Jessim</h2>
+        <h2>Hamza</h2>
         <p>Etudiant BTS SIO 2 Institution Des Chartreux Lyon1</p>
         <p className="responsive">Version téléphone en travaux ;)</p>
       </main>
