@@ -61,20 +61,6 @@ const Preuve = () => {
           valueLink:
             "https://drive.google.com/file/d/1yECaFJLkATxHMnrLjPFg4o-Xub70syF_/view?usp=drive_link",
         },
-        {
-          name: "Création d’une application web (Walrus)",
-          period: "03/03/2025 - 26/04/2027",
-          values: [false, false, false, true, false, false],
-          valueLink:
-            "https://drive.google.com/file/d/18DlCPMdGA8UycaZKukJXjbukifvTNEGl/view?usp=sharing",
-        },
-        {
-          name: "Déploiement d’une application web (Walrus)",
-          period: "03/03/2025 - 25/04/2026",
-          values: [false, false, false, false, true, false],
-          valueLink:
-            "https://drive.google.com/file/d/1_wAX_NPfiBXA5pz0b_bSsVRDadKdJdxS/view?usp=sharing",
-        },
       ],
     },
   ];
