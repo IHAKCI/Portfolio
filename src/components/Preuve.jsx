@@ -28,9 +28,9 @@ const Preuve = () => {
             "https://drive.google.com/file/d/1xlNeYnvaFKvsz2C9_AJXK3qjCraMVloy/view?usp=drive_link",
         },
         {
-          name: "Configuration de la NAT",
-          period: "17/01/2024 - 19/04/2025",
-          values: [false, false, false, false, true, false],
+          name: "Rendue personnelle (Introspection sur nous même et la voie que nous souhaitons prendre)",
+          period: "17/01/2025- 19/04/2025",
+          values: [false, false, false, false, false, true],
           valueLink:
             "https://drive.google.com/file/d/1YZMGq3oxoM0Z4tFWaF57D7NfALez178A/view?usp=drive_link",
         },
