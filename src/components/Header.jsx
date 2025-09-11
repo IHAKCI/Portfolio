@@ -12,17 +12,17 @@ const Header = () => {
           Projets Scolaire
         </NavLink>
       </div>
-      <NavLink to="/">
+      {/* <NavLink to="/">
         {" "}
         <img
           src="https://media.licdn.com/dms/image/v2/D4E03AQE585ZqeKylIQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1713864554443?e=1752105600&v=beta&t=GqxF4mCK6MqBVQji9FRnoUHurQG8H1qiL9TLflv-pnE"
           alt="logo"
         />
-      </NavLink>
+      </NavLink> */}
       <div className="link-right-container">
         {/* <NavLink to="/Render" target="_blank" activeClassName="active">CV</NavLink> */}
         <a
-          href="https://drive.google.com/file/d/1UgIPlLNhY5uKrJ_39ETmAZEGLZ1a_rcf/view?usp=sharing"
+          href="https://drive.google.com/file/d/1hnt6TOnwOtTagBKplpjfd6bzz2eUcekl/view?usp=drive_link"
           rel="noreferrer"
           target="_blank"
         >
