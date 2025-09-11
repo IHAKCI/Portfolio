@@ -37,9 +37,7 @@ const Header = () => {
           {" "}
           Tableau de Synthèse
         </a>
-        <NavLink to="/Contact" activeClassName="active">
-          Contact
-        </NavLink>
+        
       </div>
     </header>
   );
