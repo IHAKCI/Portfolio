@@ -21,12 +21,12 @@ const Preuve = () => {
             "https://drive.google.com/file/d/1aHQ59syY7HcZV6bUVmPAWA15wYnDHjmF/view?usp=drive_link",
         },
         {
-          name: "Mise en place d'un systèmes de routage inter-vlan",
+          name: "Installation et configuration d’un serveur AD + domaine (fait en groupe).",
           period: "11/09/2024 - 02/10/2024",
           values: [true, false, false, false, false, false],
           valueLink:
-            "https://drive.google.com/file/d/1xlNeYnvaFKvsz2C9_AJXK3qjCraMVloy/view?usp=drive_link",
-        },
+            "https://drive.google.com/file/d/1nxIwrQXAzUMX7unc_Nz2OG_dwRqRwmR5/view?usp=drive_link",
+                    },
         {
           name: "Certification (Introspection sur nous même et la voie que nous souhaitons prendre)",
           period: "17/01/2025- 19/04/2025",
