@@ -1,19 +1,19 @@
 header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
   padding: 0 2rem;
   height: 60px;
-  max-width: 600px;
-  margin: 0 auto;
 }
 
 .link-left-container {
   display: flex;
   gap: 2rem;
+  white-space: nowrap;
 }
 
 .link-right-container {
   display: flex;
   gap: 2rem;
+  white-space: nowrap;
 }
