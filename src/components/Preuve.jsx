@@ -52,7 +52,7 @@ const Preuve = () => {
     },
 
     {
-      type: "Réalisation en milieu professionnel en cours de première année",
+      type: "Réalisation en milieu professionnel en cours de première et deuxième année",
       rows: [
         {
           name: "Dépannage réseau et résolution de pannes (stage chez Prospektor)",
@@ -67,6 +67,13 @@ const Preuve = () => {
           values: [false, false, false, false, true, false],
           valueLink:
             "https://drive.google.com/file/d/1yECaFJLkATxHMnrLjPFg4o-Xub70syF_/view?usp=drive_link",
+        },
+        {
+          name: "Conception et structuration d’une nouvelle architecture réseau pour l’associtaion CAFAF",
+          period: "16/02/2026 - 23/02/2026 ",
+          values: [true, false, false, false, false, false],
+          valueLink:
+            "https://drive.google.com/file/d/13cRiVtg4dhLYIZYP3UJTQq1IY2W-CQXs/view?usp=drive_link",
         },
       ],
     },
