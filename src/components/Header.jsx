@@ -1,5 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import "./header.css";
 
 const Header = () => {
   return (
@@ -26,7 +27,6 @@ const Header = () => {
           rel="noreferrer"
           target="_blank"
         >
-          
           CV
         </a>
         <a
@@ -34,7 +34,6 @@ const Header = () => {
           rel="noreferrer"
           target="_blank"
         >
-          
           Tableau de Synthèse
         </a>
         
