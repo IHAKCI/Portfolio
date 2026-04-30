@@ -26,7 +26,7 @@ const Header = () => {
           rel="noreferrer"
           target="_blank"
         >
-          {" "}
+          
           CV
         </a>
         <a
@@ -34,7 +34,7 @@ const Header = () => {
           rel="noreferrer"
           target="_blank"
         >
-          {" "}
+          
           Tableau de Synthèse
         </a>
         
