@@ -14,9 +14,9 @@ function Home() {
           <h1>Portfolio</h1>
           <h2>Hamza</h2>
           <p>
-            Bonjour en préapration de mon BTS SIO à l'institution des Chartreux, je vous présente mon portfolio qui regroupe mes projets scolaires et personnels.
-             Vous y trouverez également mon CV et mes coordonnées pour me contacter. 
-            Bonne visite !
+            Bonjour en préparation de mon BTS SIO à l'institution des Chartreux, je vous présente mon portfolio qui regroupe mes projets scolaires et personnels.<br />
+  Vous y trouverez également mon CV et mes coordonnées pour me contacter.<br />
+  Bonne visite !
           </p>
         </div>
 
