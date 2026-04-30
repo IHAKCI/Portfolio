@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import "../App.css";
 import "../styles/Home.css";
 import Header from "./Header";
@@ -6,6 +6,19 @@ import Footer from "./Footer";
 import Preuve from "./Preuve";
 
 function Home() {
+  const [visible, setVisible] = useState(false);
+
+useEffect(() => {
+  const handleScroll = () => {
+    setVisible(window.scrollY > 300);
+  };
+  window.addEventListener("scroll", handleScroll);
+  return () => window.removeEventListener("scroll", handleScroll);
+}, []);
+
+const scrollToTop = () => {
+  window.scrollTo({ top: 0, behavior: "smooth" });
+};
   return (
     <div>
       <Header />
@@ -18,6 +31,11 @@ function Home() {
   Vous y trouverez également mon CV et mes coordonnées via LinkedIn pour me contacter.<br />
   Bonne visite !
           </p>
+          {visible && (
+  <button onClick={scrollToTop} className="scroll-top-btn">
+    ↑
+  </button>
+)}
         </div>
 
         <p className="responsive">Version téléphone en travaux ;</p>
