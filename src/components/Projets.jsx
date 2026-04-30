@@ -10,7 +10,7 @@ function Projets() {
       <main>
         <h1>Portfolio</h1>
         <h2>Hamza</h2>
-        <p>Etudiant BTS SIO 2 Institution Des Chartreux Lyon1</p>
+        <p>Etudiant BTS SIO 2 Institution Des Chartreux</p>
         <p className="responsive">Version téléphone en travaux ;)</p>
       </main>
       <Footer />

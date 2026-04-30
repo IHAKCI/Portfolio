@@ -14,17 +14,10 @@ function Home() {
           <h1>Portfolio</h1>
           <h2>Hamza</h2>
           <p>
-           Bonjour, je m'appelle Hamza Kilinc et je suis en BTS SIO option SISR,
-          une formation en deux ans orientée vers l’administration des systèmes et des réseaux.
-          J’y apprends à installer, configurer et sécuriser des infrastructures informatiques,
-          gérer des serveurs, administrer des réseaux et utiliser des commandes sur terminaux
-          pour paramétrer des équipements comme les switchs ou les routeurs.
-          J’ai également eu l’occasion de toucher au développement web, ce qui complète mes compétences.
-          Ce BTS forme des techniciens capables de maintenir et d’optimiser des environnements informatiques
-          tout en tenant compte des enjeux de cybersécurité et de gestion de projet.
-          À l’avenir, je souhaite poursuivre mes études, au moins jusqu’au bachelor ou au master,
-          afin de me spécialiser dans l’administration systèmes et réseaux pour viser une augmentations 
-          de mes comptétences pour avoir une expertise dans le domaine .
+          Hamza Kilinc
+Étudiant en Systèmes et Réseaux (BTS SIO SISR)
+Passionné par les infrastructures informatiques, je me spécialise dans l'installation, la configuration et la sécurisation des réseaux. 
+De l'administration de serveurs au paramétrage d'équipements Cisco, je construis des environnements fiables et performants, avec une vision orientée cybersécurité.
           </p>
         </div>
 

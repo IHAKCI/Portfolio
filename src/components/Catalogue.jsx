@@ -84,7 +84,7 @@ function Catalogue() {
         <h1>Pojets scolaire</h1>
         <br />
         <h2>Hamza</h2>
-        <p>Etudiant BTS SIO 2 Institution Des Chartreux Lyon1</p>
+        <p>Etudiant BTS SIO 2 Institution Des Chartreux</p>
       </main>
       <div className="catalogue-container">
         <Preuve />
