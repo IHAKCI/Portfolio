@@ -4,6 +4,7 @@ header {
   justify-content: space-between;
   padding: 0 2rem;
   height: 60px;
+  max-width: 1200px;
 }
 
 .link-left-container {
