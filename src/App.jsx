@@ -1,4 +1,5 @@
 import * as React from "react";
+import { useState, useEffect } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./components/Home";
 import Catalogue from "./components/Catalogue";
@@ -8,19 +9,31 @@ import Header from "./components/Header";
 import Render from "./components/Render";
 import Footer from "./components/Footer";
 import Preuve from "./components/Preuve";
-import { useEffect } from "react";
 
 function App() {
-  function ExternalRedirect({ to }) {
-  useEffect(() => {
-    window.location.href = to;
-  }, [to]);
+  const [visible, setVisible] = useState(false);
 
-  return null;
-}
+  useEffect(() => {
+    const handleScroll = () => {
+      setVisible(window.scrollY > 300);
+    };
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
+  function ExternalRedirect({ to }) {
+    useEffect(() => {
+      window.location.href = to;
+    }, [to]);
+    return null;
+  }
+
   return (
     <Router>
-      {/* <Header /> */}
       <div>
         <Routes>
           <Route path="/" element={<Home />} />
@@ -32,12 +45,14 @@ function App() {
           <Route path="/Footer" element={<Footer />} />
           <Route path="/preuve" element={<Preuve />} />
           <Route path="/ppe1" element={<ExternalRedirect to="https://gest-one.netlify.app" />} />
-
-
-          {/* Ajoutez plus de routes selon vos besoins */}
         </Routes>
+
+        {visible && (
+          <button onClick={scrollToTop} className="scroll-top-btn">
+            ↑
+          </button>
+        )}
       </div>
-      {/* <Footer /> */}
     </Router>
   );
 }
