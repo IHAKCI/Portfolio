@@ -14,14 +14,12 @@ function Home() {
           <h1>Portfolio</h1>
           <h2>Hamza</h2>
           <p>
-          Hamza Kilinc
-Étudiant en Systèmes et Réseaux (BTS SIO SISR)
-Passionné par les infrastructures informatiques, je me spécialise dans l'installation, la configuration et la sécurisation des réseaux. 
-De l'administration de serveurs au paramétrage d'équipements Cisco, je construis des environnements fiables et performants, avec une vision orientée cybersécurité.
+            Bonjour en préapration de mon BTS SIO 2 à l'institution des Chartreux, je vous présente mon portfolio qui regroupe mes projets scolaires et personnels.
+             Vous y trouverez également mon CV et mes coordonnées pour me contacter. Bonne visite !
           </p>
         </div>
 
-        <p className="responsive">Version téléphone en travaux ;)</p>
+        <p className="responsive">Version téléphone en travaux ;</p>
       </main>
       <Preuve />
       <Footer />
