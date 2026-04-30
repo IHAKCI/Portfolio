@@ -16,7 +16,7 @@ function Catalogue() {
       link: "https://drive.google.com/file/d/1OzxTZGk3nvCfEASlllmqQcjMrcp9IiE-/view?usp=sharing",
     },
     {
-      name: "Satge",
+      name: "Stage",
       description: "Stage Chez FMP.",
       time: "300",
       imageUrl:

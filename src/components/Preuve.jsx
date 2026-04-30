@@ -36,10 +36,17 @@ const Preuve = () => {
         },
         {
           name: "DPL de Tontatta Security ",
-          period: "11/09/2025 - 19/04/2025",
+          period: "11/09/2024 - 19/04/2025",
           values: [false, false, true, false, false, false],
           valueLink:
             "https://drive.google.com/file/d/1gwo1rJVTcxkanuJs1KT8egYS2q2W9_Ao/view?usp=drive_link",
+        },
+        {
+          name: "Déploiement et configuration d’une Infrastructure WiFi professionnelle sous UniFi pour SOLARYS ",
+          period: "12/01/2025 - 16/01/2026 ",
+          values: [false, false, false, false, true, false],
+          valueLink:
+            "https://drive.google.com/file/d/11z_Z9bCjLOJGpRPevcFbZ5P-aIzISL_d/view?usp=drive_link",
         },
       ],
     },
