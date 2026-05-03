@@ -23,14 +23,14 @@ const Header = () => {
       <div className="link-right-container">
         {/* <NavLink to="/Render" target="_blank" activeClassName="active">CV</NavLink> */}
         <a
-          href="https://drive.google.com/file/d/1FcuMy7jgKW-PhvmoLTaVd-5hU3bxMtVb/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1cBrY8gqkDC4jr4Pd8NVTupuYeDhJoCtx/view?usp=drive_link"
           rel="noreferrer"
           target="_blank"
         >
           CV
         </a>
         <a
-          href="https://drive.google.com/file/d/1cBrY8gqkDC4jr4Pd8NVTupuYeDhJoCtx/view?usp=drive_link"
+          href="https://drive.google.com/file/d/12JRQcbuqH-qxLijB4acnJifAJGKx2GIa/view?usp=drive_link"
           rel="noreferrer"
           target="_blank"
         >
