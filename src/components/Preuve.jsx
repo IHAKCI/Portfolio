@@ -21,7 +21,7 @@ const Preuve = () => {
             "https://drive.google.com/file/d/1aHQ59syY7HcZV6bUVmPAWA15wYnDHjmF/view?usp=drive_link",
         },
         {
-          name: "Installation et configuration d’un serveur AD + domaine (fait en groupe).",
+          name: "Installation et configuration d’un serveur AD + domaine (fait en groupe, PRIXY).",
           period: "11/09/2024 - 02/10/2024",
           values: [false, false, false, true, false, false],
           valueLink:
