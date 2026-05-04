@@ -84,7 +84,14 @@ function Catalogue() {
         <h1>Pojets scolaire</h1>
         <br />
         <h2>Hamza</h2>
-        <p>Etudiant BTS SIO 2 Institution Des Chartreux</p>
+        <p>Je suis actuellement en BTS SIO option SISR (Solutions d'Infrastructure, Systèmes et Réseaux). 
+J'ai obtenu en 2024 un Bac Général avec les spécialités Mathématiques et NSI (Numérique et 
+Sciences Informatiques). Ces spécialités m'ont permis de développer une solide base en 
+algorithmique, réseaux et programmation, et d'orienter naturellement mon parcours vers 
+l'infrastructure et la cybersécurité.<br />
+            Je souhaite poursuivre mes études après mon BTS. Mon objectif est d'intégrer l'école d'ingénieurs 
+CPE Lyon dans la filière ICS (Informatique, Réseaux et Cybersécurité) afin de me spécialiser 
+et d'évoluer vers des postes d'administrateur systèmes & réseaux, puis à terme vers la cybersécurité.<br /></p>
       </main>
       <div className="catalogue-container">
         <Preuve />
