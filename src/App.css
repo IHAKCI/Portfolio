@@ -493,9 +493,3 @@ h6.pleds-title {
 .scroll-top-btn:hover {
   background: rgba(180, 0, 255, 1);
 }
-
-.catalogue-info {
-  padding: 40px 10%;
-  color: white;
-  background-color: #1a1a2e;
-}
