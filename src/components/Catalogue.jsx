@@ -83,15 +83,35 @@ function Catalogue() {
       <main>
         <h1>Pojets scolaire</h1>
         <br />
-        <h2>Hamza</h2>
-        <p>Je suis actuellement en BTS SIO option SISR (Solutions d'Infrastructure, Systèmes et Réseaux). 
-J'ai obtenu en 2024 un Bac Général avec les spécialités Mathématiques et NSI (Numérique et 
-Sciences Informatiques). Ces spécialités m'ont permis de développer une solide base en 
-algorithmique, réseaux et programmation, et d'orienter naturellement mon parcours vers 
-l'infrastructure et la cybersécurité.<br />
-            Je souhaite poursuivre mes études après mon BTS. Mon objectif est d'intégrer l'école d'ingénieurs 
-CPE Lyon dans la filière ICS (Informatique, Réseaux et Cybersécurité) afin de me spécialiser 
-et d'évoluer vers des postes d'administrateur systèmes & réseaux, puis à terme vers la cybersécurité.<br /></p>
+        <h2>Hamza Kilinc</h2>
+                    <h3>Un petit point sur moi</h3>
+            <p>
+              Je suis actuellement en BTS SIO option SISR (Solutions d'Infrastructure, Systèmes et Réseaux). 
+              J'ai obtenu en 2024 un Bac Général avec les spécialités Mathématiques et NSI (Numérique et 
+              Sciences Informatiques). Ces spécialités m'ont permis de développer une solide base en 
+              algorithmique, réseaux et programmation, et d'orienter naturellement mon parcours vers 
+              l'infrastructure et la cybersécurité.
+            </p>
+
+            <h3>Projet Professionnel</h3>
+            <p>
+              Je souhaite poursuivre mes études après mon BTS. Mon objectif est d'intégrer l'école 
+              d'ingénieurs CPE Lyon dans la filière ICS (Informatique, Réseaux et Cybersécurité) afin 
+              de me spécialiser et d'évoluer vers des postes d'administrateur systèmes & réseaux, 
+              puis à terme vers la cybersécurité.
+            </p>
+
+            <h3>C'est quoi le BTS SIO ?</h3>
+            <p>
+              Le BTS SIO (Services Informatiques aux Organisations) est un diplôme de niveau bac+2 
+              dans le domaine de l'informatique. Il forme des professionnels capables de prendre en 
+              charge les systèmes informatiques au sein d'une entreprise ou d'une organisation. Le BTS 
+              SIO met l'accent sur la pratique et l'expérience professionnelle grâce à des stages en 
+              entreprise. Les étudiants acquièrent ainsi des compétences concrètes et sont préparés à 
+              intégrer le monde du travail dans des postes tels que technicien de support, administrateur 
+              réseau, développeur d'applications, etc.
+            </p>
+
       </main>
       <div className="catalogue-container">
         <Preuve />
