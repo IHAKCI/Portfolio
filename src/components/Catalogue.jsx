@@ -84,20 +84,20 @@ function Catalogue() {
         <h1>Pojets scolaire</h1>
         <br />
         <h2>Hamza Kilinc</h2>
-         <h2>Qui suis-je ?</h2>
+         <h3>Qui suis-je ?</h3>
 <p>
   Je suis étudiant en BTS SIO option SISR. Avant ça, j'ai obtenu un Bac Général 
   avec les spécialités Maths et NSI. Ces matières m'ont donné le goût des réseaux 
   et de l'informatique.
 </p>
 
-<h2>Mon objectif</h2>
+<h3>Mon objectif</h3>
 <p>
   Après mon BTS, je souhaite intégrer CPE Lyon en filière ICS pour me spécialiser 
   en cybersécurité et devenir administrateur réseau ou ingénieur en sécurité informatique.
 </p>
 
-<h2>Le BTS SIO, c'est quoi ?</h2>
+<h3>Le BTS SIO, c'est quoi ?</h3>
 <p>
   C'est un diplôme bac+2 en informatique. Il forme des techniciens capables de gérer 
   les systèmes et réseaux d'une entreprise, avec beaucoup de pratique et des stages en entreprise.
